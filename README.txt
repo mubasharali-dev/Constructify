@@ -1,0 +1,1 @@
+Used the Javascript, HTML, CSS and Bootstrap to create the front-end of the website.
